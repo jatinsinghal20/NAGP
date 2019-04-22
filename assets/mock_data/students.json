@@ -1,0 +1,159 @@
+[
+  {
+    "id": "1",
+    "name": "Jatin Singhal",
+    "category": "International",
+    "dateOfBirth": "2019-11-27",
+    "fathersName": "Vijay Singhal",
+    "mothersName": "Mamta Singhal",
+    "lastClassScore": 90,
+    "documents" : {
+      "domicile": true,
+      "birthCertificate": true,
+      "passport": true,
+      "policeClearance": true,
+      "declaration": true,
+      "marksheets": true
+    }
+  },
+
+  {
+    "id": "2",
+    "name": "Garima Singhal",
+    "category": "Domestic",
+    "dateOfBirth": "2019-11-27",
+    "fathersName": "Vijay Singhal",
+    "mothersName": "Mamta Singhal",
+    "lastClassScore": 90,
+    "documents" : {
+      "domicile": true,
+      "birthCertificate": true,
+      "passport": true,
+      "policeClearance": true,
+      "declaration": true,
+      "marksheets": true
+    }
+  },
+  {
+    "id": "3",
+    "name": "Shagun Singhal",
+    "category": "International",
+    "dateOfBirth": "2019-11-27",
+    "fathersName": "Raju",
+    "mothersName": "Rajal",
+    "lastClassScore": 90,
+    "documents" : {
+      "domicile": true,
+      "birthCertificate": true,
+      "passport": true,
+      "policeClearance": true,
+      "declaration": true,
+      "marksheets": true
+    }
+  },
+
+  {
+    "id": "4",
+    "name": "Harish",
+    "category": "Domestic",
+    "dateOfBirth": "2019-11-27",
+    "fathersName": "Abhishek",
+    "mothersName": "sandeepa",
+    "lastClassScore": 90,
+    "documents" : {
+      "domicile": true,
+      "birthCertificate": true,
+      "passport": true,
+      "policeClearance": false,
+      "declaration": true,
+      "marksheets": true
+    }
+  },
+  {
+    "id": "5",
+    "name": "Himani",
+    "category": "International",
+    "dateOfBirth": "2019-11-27",
+    "fathersName": "Mahesh",
+    "mothersName": "Mahima",
+    "lastClassScore": 90,
+    "documents" : {
+      "domicile": true,
+      "birthCertificate": true,
+      "passport": true,
+      "policeClearance": true,
+      "declaration": true,
+      "marksheets": true
+    }
+  },
+
+  {
+    "id": "6",
+    "name": "Garima Singhal",
+    "category": "Domestic",
+    "dateOfBirth": "2019-11-27",
+    "fathersName": "Vijay Singhal",
+    "mothersName": "Mamta Singhal",
+    "lastClassScore": 90,
+    "documents" : {
+      "domicile": true,
+      "birthCertificate": true,
+      "passport": true,
+      "policeClearance": true,
+      "declaration": true,
+      "marksheets": true
+    }
+  },
+  {
+    "id": "7",
+    "name": "Jatin Singhal",
+    "category": "International",
+    "dateOfBirth": "2019-11-27",
+    "fathersName": "Vijay Singhal",
+    "mothersName": "Mamta Singhal",
+    "lastClassScore": 90,
+    "documents" : {
+      "domicile": true,
+      "birthCertificate": true,
+      "passport": true,
+      "policeClearance": true,
+      "declaration": true,
+      "marksheets": true
+    }
+  },
+
+  {
+    "id": "8",
+    "name": "Garima Singhal",
+    "category": "Domestic",
+    "dateOfBirth": "2019-11-27",
+    "fathersName": "Vijay Singhal",
+    "mothersName": "Mamta Singhal",
+    "lastClassScore": 90,
+    "documents" : {
+      "domicile": true,
+      "birthCertificate": true,
+      "passport": true,
+      "policeClearance": true,
+      "declaration": true,
+      "marksheets": true
+    }
+  },
+  {
+    "id": "9",
+    "name": "Jatin Singhal",
+    "category": "International",
+    "dateOfBirth": "2019-11-27",
+    "fathersName": "Vijay Singhal",
+    "mothersName": "Mamta Singhal",
+    "lastClassScore": 90,
+    "documents" : {
+      "domicile": true,
+      "birthCertificate": true,
+      "passport": true,
+      "policeClearance": true,
+      "declaration": true,
+      "marksheets": true
+    }
+  }
+]

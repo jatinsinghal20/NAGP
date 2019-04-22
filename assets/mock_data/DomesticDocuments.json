@@ -1,0 +1,8 @@
+[
+  { "id" : "domicile", "name" : "Domicile", "required" : true },
+  { "id" : "birthCertificate", "name" : "Birth Certificate", "required" : true },
+  { "id" : "marksheets", "name" : "MarkSheets", "required" : true },
+  { "id" : "declaration", "name" : "Police Clearance", "required" : false },
+  { "id" : "passport", "name" : "Passport", "required" : false },
+  { "id" : "policeClearance", "name" : "Declaration", "required" : true }
+]
